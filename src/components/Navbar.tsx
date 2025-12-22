@@ -30,7 +30,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <a href="/#/" className="navbar-logo">
+        <a href="#/" className="navbar-logo">
           <span className="logo-text">KATHY</span>
           <span className="logo-text">CANNAVARO</span>
         </a>
@@ -60,7 +60,7 @@ function Navbar() {
               </svg>
             </a>
           </div>
-          <a href="/#/contact" className="contact-btn">Contact</a>
+          <a href="#/contact" className="contact-btn">Contact</a>
         </div>
       </div>
     </nav>

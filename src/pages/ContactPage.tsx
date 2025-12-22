@@ -67,7 +67,7 @@ function ContactPage() {
               {/* FormSubmit configuration */}
               <input type="hidden" name="_subject" value="New Contact from Kathy Cannavaro Website" />
               <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_next" value={window.location.origin + "/#/contact?success=true"} />
+              <input type="hidden" name="_next" value={window.location.href.split('?')[0] + "?success=true"} />
               <input type="text" name="_honey" style={{ display: 'none' }} />
               
               <div className="form-group">

@@ -28,7 +28,7 @@ function HomePage() {
             </div>
             <p className="title">REALTOR</p>
             <p className="title">Serving Charleston's Residential and Commercial Markets</p>
-            <Button text="Contact" href="/#/contact" />
+            <Button text="Contact" href="#/contact" />
           </div>
         </div>
       </div>

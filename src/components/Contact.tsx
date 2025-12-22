@@ -12,7 +12,7 @@ function Contact() {
         </div>
 
         <div className="contact-center">
-          <a href="/#/contact" className="contact-button">
+          <a href="#/contact" className="contact-button">
             Questions? Contact Me Here
           </a>
           <div className="contact-social">

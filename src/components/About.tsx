@@ -47,7 +47,7 @@ function About() {
             <p className="feature-text">
               A former teacher as well, Kathy's background uniquely equips her to guide clients through the process with clarity, care, and confidence. She understands what it takes to run a business and serve clients at the highest level.
             </p>
-            <Button text="Work with Kathy" variant="black" href="/#/contact" />
+            <Button text="Work with Kathy" variant="black" href="#/contact" />
           </div>
         </div>
       </section>
