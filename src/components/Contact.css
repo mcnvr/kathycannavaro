@@ -1,0 +1,130 @@
+.contact-section {
+  background-color: white;
+  padding: 5rem 5%;
+  width: 100%;
+  border-top: 1px solid #eee;
+}
+
+.contact-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 3rem;
+}
+
+.contact-details {
+  flex: 1;
+}
+
+.contact-name {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #333;
+  margin: 0 0 1.25rem 0;
+}
+
+.contact-company {
+  font-size: 1.125rem;
+  color: #333;
+  margin: 0 0 0.75rem 0;
+}
+
+.contact-address {
+  font-size: 1.125rem;
+  color: #333;
+  margin: 0 0 0.5rem 0;
+}
+
+.contact-center {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.contact-button {
+  display: inline-block;
+  background-color: white;
+  color: #333;
+  text-decoration: none;
+  padding: 18px 40px;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  border: 1px solid #333;
+  transition: all 0.2s ease;
+}
+
+.contact-button:hover {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+
+.contact-social {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.contact-social-icon {
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s ease;
+}
+
+.contact-social-icon svg {
+  width: 24px;
+  height: 24px;
+}
+
+.contact-social-icon:hover {
+  opacity: 0.6;
+}
+
+.contact-info {
+  flex: 1;
+  text-align: right;
+}
+
+.contact-info-heading {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #333;
+  margin: 0 0 1.25rem 0;
+}
+
+.contact-link {
+  display: block;
+  font-size: 1.125rem;
+  color: #333;
+  text-decoration: underline;
+  margin: 0 0 0.75rem 0;
+}
+
+.contact-link:hover {
+  opacity: 0.7;
+}
+
+.contact-license {
+  font-size: 1rem;
+  color: #666;
+  margin: 1.25rem 0 0 0;
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .contact-details,
+  .contact-info {
+    text-align: center;
+  }
+}

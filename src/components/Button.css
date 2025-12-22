@@ -1,0 +1,47 @@
+.btn {
+  border: none;
+  outline: none;
+  padding: 16px 32px;
+  font-family: 'Merriweather', serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 0;
+  margin-top: 1rem;
+  transition: opacity 0.2s ease;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+/* White button for hero */
+.btn-white {
+  background-color: white;
+  color: black;
+}
+
+.btn-white:hover {
+  opacity: 0.85;
+}
+
+.btn-white:active {
+  opacity: 0.75;
+}
+
+/* Black button for about section */
+.btn-black {
+  background-color: black;
+  color: white;
+}
+
+.btn-black:hover {
+  opacity: 0.85;
+}
+
+.btn-black:active {
+  opacity: 0.7;
+}
+

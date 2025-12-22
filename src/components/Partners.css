@@ -1,0 +1,32 @@
+.partners-section {
+  background-color: white;
+  padding: 4rem 5%;
+  width: 100%;
+}
+
+.partners-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
+}
+
+.partner-logo {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .partners-container {
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .partner-logo {
+    height: 60px;
+  }
+}
+

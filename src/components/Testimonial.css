@@ -1,0 +1,125 @@
+.testimonial-section {
+  position: relative;
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.testimonial-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.testimonial-background img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none;
+}
+
+.testimonial-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.70);
+}
+
+.testimonial-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  max-width: 1400px;
+  padding: 4rem 5%;
+  color: white;
+}
+
+.testimonial-heading {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 3rem 0;
+  color: white;
+}
+
+.testimonial-heading em {
+  font-style: italic;
+}
+
+.testimonial-quotes {
+  display: flex;
+  gap: 4rem;
+  margin-bottom: 2rem;
+}
+
+.testimonial-quote-block {
+  flex: 1;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.testimonial-quote {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.8;
+  margin: 0 0 1.5rem 0;
+  font-style: normal;
+}
+
+.testimonial-stars {
+  font-size: 1.5rem;
+  letter-spacing: 0.25rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.testimonial-stars:last-child {
+  margin-bottom: 0;
+}
+
+.testimonial-button {
+  display: inline-block;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  padding: 14px 28px;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.testimonial-button:hover {
+  opacity: 0.9;
+}
+
+@media (max-width: 968px) {
+  .testimonial-quotes {
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .testimonial-quote {
+    font-size: 1.125rem;
+  }
+
+  .testimonial-section {
+    min-height: auto;
+  }
+}
+
