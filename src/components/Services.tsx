@@ -35,8 +35,8 @@ function Services() {
   return (
     <section id="services" className="services-section">
       <div className="services-container">
-        <h2 className="services-heading">Services Offered</h2>
-        <div className="services-grid">
+        <h2 className="services-heading scroll-animate">Services Offered</h2>
+        <div className="services-grid scroll-animate">
           {services.map((service, index) => (
             <div key={index} className="service-card">
               <div className="service-image">

@@ -9,7 +9,7 @@ function Testimonial() {
         <img src={insideImage} alt="Interior" draggable="false" />
         <div className="testimonial-overlay"></div>
       </div>
-      <div className="testimonial-content">
+      <div className="testimonial-content scroll-animate">
         <h2 className="testimonial-heading">What my <em>clients</em> are saying</h2>
         <div className="testimonial-quotes">
           <div className="testimonial-quote-block">

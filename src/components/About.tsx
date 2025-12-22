@@ -9,7 +9,7 @@ function About() {
     <>
       {/* Intro Section - Tan/Beige background */}
       <section id="about" className="intro-section">
-        <div className="intro-container">
+        <div className="intro-container scroll-animate">
           <h2 className="intro-heading">Representing Buyers and Sellers in the Charleston Area</h2>
           <p className="intro-text">
             Kathy is a dedicated and versatile real estate professional with a passion for helping clients achieve their real estate goals—whether that's buying or selling a home, securing land, or navigating commercial property transactions.
@@ -19,7 +19,7 @@ function About() {
 
       {/* Feature Section 1 - Text Left, Image Right */}
       <section className="feature-section">
-        <div className="feature-container">
+        <div className="feature-container scroll-animate">
           <div className="feature-content">
             <h3 className="feature-heading">Trusted Advisor. Results-Driven.<br />Client-First.</h3>
             <p className="feature-text">
@@ -35,7 +35,7 @@ function About() {
 
       {/* Feature Section 2 - Image Left, Text Right */}
       <section className="feature-section feature-section-alt">
-        <div className="feature-container">
+        <div className="feature-container scroll-animate">
           <div className="feature-image">
             <img src={littleGymImage} alt="Kathy at The Little Gym" />
           </div>

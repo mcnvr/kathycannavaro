@@ -3,7 +3,7 @@ import './Contact.css'
 function Contact() {
   return (
     <section className="contact-section">
-      <div className="contact-container">
+      <div className="contact-container scroll-animate">
         <div className="contact-details">
           <h3 className="contact-name">Kathy Cannavaro, Realtor</h3>
           <p className="contact-company">KELLER WILLIAMS</p>

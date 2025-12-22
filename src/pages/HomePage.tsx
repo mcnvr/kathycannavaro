@@ -10,8 +10,11 @@ import Partners from '../components/Partners'
 import Services from '../components/Services'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import { useScrollAnimation } from '../hooks/useScrollAnimation'
 
 function HomePage() {
+  useScrollAnimation();
+
   return (
     <div className="app">
       <div className="hero-section">

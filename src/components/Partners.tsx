@@ -7,7 +7,7 @@ import kwLogo from '../assets/kw.png'
 function Partners() {
   return (
     <section className="partners-section">
-      <div className="partners-container">
+      <div className="partners-container scroll-animate">
         <img src={hustedLogo} alt="The Husted Team" className="partner-logo" />
         <img src={kwLogo} alt="Keller Williams" className="partner-logo" />
       </div>
