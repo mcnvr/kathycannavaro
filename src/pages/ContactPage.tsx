@@ -1,9 +1,14 @@
+import { useEffect } from 'react'
 import './ContactPage.css'
 import kathyHeadshot from '../assets/kathycannavaro_headshot.webp'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
 function ContactPage() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="contact-page">
       <div className="contact-page-nav">

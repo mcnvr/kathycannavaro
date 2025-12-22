@@ -87,4 +87,10 @@
   margin-top: 0.25rem;
 }
 
-
+/* Mobile - hide logo and separator */
+@media (max-width: 768px) {
+  .hero-logo,
+  .name-separator {
+    display: none;
+  }
+}
