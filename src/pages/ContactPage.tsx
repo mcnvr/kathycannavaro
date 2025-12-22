@@ -65,7 +65,7 @@ function ContactPage() {
             </p>
             
             <form 
-              action="https://formsubmit.co/mcannav@clemson.edu" 
+              action="https://formsubmit.co/kcannavaro@kw.com" 
               method="POST"
               className="contact-form"
             >
