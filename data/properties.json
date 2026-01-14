@@ -1,0 +1,115 @@
+{
+  "lastUpdated": "2026-01-13T20:15:04.693Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$1,500,000",
+      "address": "830 Curved Creek Court, Charleston, SC 29412",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,112 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25027053%2Fphoto%2Fmedia%2F1_4228957970621901440.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/830-Curved-Creek-Court-Charleston-SC-29412/2037560303449296",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$879,900",
+      "address": "840 Forrest Drive, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,286 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25014079%2Fphoto%2Fmedia%2F1_4190022303716335104.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/840-Forrest-Drive-Charleston-SC-29492/1988828681555136",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$4,195,000",
+      "address": "49 Jane Jacobs Street, Mount Pleasant, SC 29464",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "4,330 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000466%2Fphoto%2Fmedia%2F1_4244807999072920960.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/49-Jane-Jacobs-Street-Mount-Pleasant-SC-29464/2072374687523858",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$765,000",
+      "address": "2101 Utsey Street, Johns Island, SC 29455",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,824 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001102%2Fphoto%2Fmedia%2F1_4244892886752619520.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2101-Utsey-Street-Johns-Island-SC-29455/2072701540161176",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$677,000",
+      "address": "3429 Sawlog Drive, Summerville, SC 29486",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,429 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030895%2Fphoto%2Fmedia%2F1_4205821446451693696.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3429-Sawlog-Drive-Summerville-SC-29486/2053539664914768",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$725,000",
+      "address": "274 Great Lawn Drive, Summerville, SC 29486",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,584 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000438%2Fphoto%2Fmedia%2F1_4241983622094581760.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/274-Great-Lawn-Drive-Summerville-SC-29486/2071042645304560",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$1,600,000",
+      "address": "826 Curved Creek Court, Charleston, SC 29412",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,112 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25019514%2Fphoto%2Fmedia%2F1_4240337802941230976.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/826-Curved-Creek-Court-Charleston-SC-29412/2008239125276682",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$518,000",
+      "address": "1017 Field Sparrow Drive, Ravenel, SC 29470",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,685 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25032688%2Fphoto%2Fmedia%2F1_4225960454712251520.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1017-Field-Sparrow-Drive-Ravenel-SC-29470/2063446209602494",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$620,000",
+      "address": "3000 Southern Pines Lane #132, Kiawah Island, SC 29455",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,333 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001100%2Fphoto%2Fmedia%2F1_4244885165231971712.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3000-Southern-Pines-Lane-132-Kiawah-Island-SC-29455/2072697824719890",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$2,349,000",
+      "address": "3945 Bulow Landing Road, Ravenel, SC 29470",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,573 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000174%2Fphoto%2Fmedia%2F1_4237621860482220800.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3945-Bulow-Landing-Road-Ravenel-SC-29470/2069151250592698",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
+}
