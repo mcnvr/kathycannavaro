@@ -91,6 +91,13 @@
   background-color: white;
 }
 
+/* Zillow Button */
+.zillow-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
 /* Responsive */
 @media (max-width: 968px) {
   .intro-container {

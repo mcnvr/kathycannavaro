@@ -22,8 +22,14 @@ function Button({ text, variant = 'white', href }: ButtonProps) {
   };
   
   if (href) {
+    const isExternalLink = href.startsWith('http://') || href.startsWith('https://');
     return (
-      <a href={href} onClick={handleClick} className={className}>
+      <a 
+        href={href} 
+        onClick={handleClick} 
+        className={className}
+        {...(isExternalLink && { target: '_blank', rel: 'noopener noreferrer' })}
+      >
         {text}
       </a>
     );

@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import './ContactPage.css'
-import kathyHeadshot from '../assets/kathycannavaro_headshot.webp'
+// @ts-ignore
+import kathyHeadshot from '../assets/headshot2.jpg'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
@@ -23,7 +24,7 @@ function ContactPage() {
               <img src={kathyHeadshot} alt="Kathy Cannavaro" />
             </div>
             <h2 className="contact-page-name">Kathy Cannavaro</h2>
-            <p className="contact-page-title">Realtor</p>
+            <p className="contact-page-title">REALTOR®</p>
             <p className="contact-page-phone">
               <a href="tel:8434836614">(843) 483-6614</a>
             </p>

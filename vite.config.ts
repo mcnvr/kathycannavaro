@@ -5,4 +5,14 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/',
+  publicDir: 'public',
+  build: {
+    outDir: 'dist',
+    // Copy data directory to dist during build
+    rollupOptions: {
+      input: {
+        main: './index.html',
+      },
+    },
+  },
 })

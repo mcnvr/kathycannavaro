@@ -5,7 +5,7 @@ function Contact() {
     <section className="contact-section">
       <div className="contact-container scroll-animate">
         <div className="contact-details">
-          <h3 className="contact-name">Kathy Cannavaro, Realtor</h3>
+          <h3 className="contact-name">Kathy Cannavaro, REALTOR®</h3>
           <p className="contact-company">KELLER WILLIAMS</p>
           <p className="contact-address">1331 College Park Rd, Unit E</p>
           <p className="contact-address">Summerville, SC 29483</p>

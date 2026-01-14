@@ -79,7 +79,7 @@
   font-weight: normal;
 }
 
-.title:last-of-type {
+.title:nth-of-type(2) {
   font-size: 1.75rem;
 }
 

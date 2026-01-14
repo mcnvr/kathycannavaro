@@ -1,8 +1,8 @@
 import './Services.css'
 // @ts-ignore
-import house1Image from '../assets/house1.webp'
+import residentialImage from '../assets/residential.jpg'
 // @ts-ignore
-import house2Image from '../assets/house2.webp'
+import landImage from '../assets/land.jpg'
 // @ts-ignore
 import commercialImage from '../assets/commercial.jpg'
 // @ts-ignore
@@ -10,14 +10,14 @@ import clientResourcesImage from '../assets/clientresources.webp'
 
 const services = [
   {
-    title: 'Buying',
-    description: 'Learn how the right strategy will help you find your perfect home',
-    image: house1Image
+    title: 'Residential',
+    description: 'Expert guidance for buying and selling residential properties in Charleston',
+    image: residentialImage
   },
   {
-    title: 'Selling',
-    description: 'Rely on a trusted advisor to sell your home quicker for more money',
-    image: house2Image
+    title: 'Land',
+    description: 'Professional assistance with land acquisition, development, and sales',
+    image: landImage
   },
   {
     title: 'Commercial',

@@ -1,0 +1,267 @@
+/* Featured Properties Section */
+.featured-properties-section {
+  background-color: #f5f5f0;
+  padding: 5rem 5%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.featured-properties-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.featured-properties-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.featured-properties-heading {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #333;
+  margin: 0;
+}
+
+.featured-properties-nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-button {
+  width: 48px;
+  height: 48px;
+  border: 1px solid #333;
+  border-radius: 50%;
+  background-color: white;
+  color: #333;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.nav-button:hover:not(:disabled) {
+  background-color: #333;
+  color: white;
+}
+
+.nav-button:active:not(:disabled) {
+  transform: scale(0.95);
+}
+
+.nav-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Carousel Wrapper */
+.carousel-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Properties Carousel */
+.properties-carousel {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.properties-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+/* Property Card */
+.property-card {
+  flex: 0 0 calc((100% - 3rem) / 3);
+  min-width: calc((100% - 3rem) / 3);
+  background-color: white;
+  border-radius: 0;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.property-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.property-image {
+  width: 100%;
+  height: 240px;
+  overflow: hidden;
+  background-color: #f0f0f0;
+  position: relative;
+}
+
+.property-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.property-card:hover .property-image img {
+  transform: scale(1.05);
+}
+
+/* Property Content */
+.property-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  flex: 1;
+}
+
+.property-price {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.property-address {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.4;
+}
+
+.property-details {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.95rem;
+  color: #666;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.property-details span {
+  display: flex;
+  align-items: center;
+}
+
+/* Carousel Indicators */
+.carousel-indicators {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.carousel-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: none;
+  background-color: #ccc;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0;
+}
+
+.carousel-dot:hover {
+  background-color: #999;
+}
+
+.carousel-dot.active {
+  background-color: #333;
+  transform: scale(1.2);
+}
+
+/* Search All Properties Button */
+.search-all-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.search-all-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  background-color: transparent;
+  color: #333;
+  border: 1px solid #333;
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.search-all-button:hover {
+  background-color: #000;
+  border-color: #000;
+  color: white;
+}
+
+.search-all-button svg {
+  transition: transform 0.3s ease;
+}
+
+.search-all-button:hover svg {
+  transform: translate(3px, -3px);
+}
+
+/* Loading and Empty States */
+.featured-properties-loading,
+.featured-properties-empty {
+  text-align: center;
+  font-size: 1.125rem;
+  color: #666;
+  padding: 3rem 0;
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+  .featured-properties-section {
+    padding: 3rem 5%;
+  }
+
+  .featured-properties-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  .featured-properties-heading {
+    font-size: 1.75rem;
+  }
+
+  .property-card {
+    flex: 0 0 100%;
+    min-width: 100%;
+  }
+
+  .property-image {
+    height: 220px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .property-card {
+    flex: 0 0 calc((100% - 1.5rem) / 2);
+    min-width: calc((100% - 1.5rem) / 2);
+  }
+}
+
+@media (min-width: 1024px) {
+  .property-card {
+    flex: 0 0 calc((100% - 3rem) / 3);
+    min-width: calc((100% - 3rem) / 3);
+  }
+}
