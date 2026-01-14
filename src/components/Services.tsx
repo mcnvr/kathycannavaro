@@ -4,7 +4,7 @@ import residentialImage from '../assets/residential.jpg'
 // @ts-ignore
 import landImage from '../assets/land.jpg'
 // @ts-ignore
-import commercialImage from '../assets/commercial.jpg'
+import commercialImage from '../assets/commercial-real-estate.jpg'
 // @ts-ignore
 import clientResourcesImage from '../assets/clientresources.webp'
 

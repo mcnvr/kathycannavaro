@@ -20,6 +20,18 @@
   z-index: 1;
 }
 
+.hero-background::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 30%, transparent 60%);
+  z-index: 1;
+  pointer-events: none;
+}
+
 .hero-background img {
   width: 100%;
   height: 100%;
@@ -29,6 +41,8 @@
   -moz-user-select: none;
   -webkit-user-drag: none;
   pointer-events: none;
+  position: relative;
+  z-index: 0;
 }
 
 .hero-overlay {
@@ -51,18 +65,18 @@
   display: flex;
   align-items: center;
   gap: 1rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.75rem;
 }
 
-.hero-logo {
-  height: 5.5rem;
+.husted-logo {
+  height: 8rem;
   width: auto;
   object-fit: contain;
 }
 
 .name-separator {
   width: 1px;
-  height: 4rem;
+  height: 8rem;
   background-color: white;
   opacity: 0.7;
 }
@@ -71,25 +85,32 @@
   margin: 0;
   font-size: 3.5rem;
   font-weight: normal;
+  max-width: 8ch;
+  line-height: 1.1;
 }
 
 .title {
-  margin: 0 0 1.25rem 0;
+  margin: 0 0 0.75rem 0;
   font-size: 1.5rem;
   font-weight: normal;
 }
 
-.title:nth-of-type(2) {
+.title:nth-of-type(2),
+.title:nth-of-type(3) {
   font-size: 1.75rem;
+}
+
+.title:nth-of-type(3) {
+  font-style: italic;
 }
 
 .hero-content .btn {
   margin-top: 0.25rem;
 }
 
-/* Mobile - hide logo and separator */
+/* Mobile - hide Husted logo and separator */
 @media (max-width: 768px) {
-  .hero-logo,
+  .husted-logo,
   .name-separator {
     display: none;
   }

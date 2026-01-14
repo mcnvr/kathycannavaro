@@ -78,7 +78,7 @@ function FeaturedProperties() {
 
   if (loading) {
     return (
-      <section className="featured-properties-section">
+      <section id="featured-properties" className="featured-properties-section">
         <div className="featured-properties-container">
           <h2 className="featured-properties-heading">Featured Properties</h2>
           <p className="featured-properties-loading">Loading properties...</p>
@@ -89,7 +89,7 @@ function FeaturedProperties() {
 
   if (data.properties.length === 0) {
     return (
-      <section className="featured-properties-section">
+      <section id="featured-properties" className="featured-properties-section">
         <div className="featured-properties-container">
           <h2 className="featured-properties-heading">Featured Properties</h2>
           <p className="featured-properties-empty">No featured properties available at this time.</p>
@@ -99,7 +99,7 @@ function FeaturedProperties() {
   }
 
   return (
-    <section className="featured-properties-section">
+    <section id="featured-properties" className="featured-properties-section">
       <div className="featured-properties-container">
         <div className="featured-properties-header">
           <h2 className="featured-properties-heading">Featured Properties</h2>

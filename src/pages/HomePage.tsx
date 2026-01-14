@@ -1,7 +1,7 @@
 import '../App.css'
-import ravenelImage from '../assets/ravenel.jpg'
+import charlestonSunsetImage from '../assets/charleston-sunset.jpg'
 // @ts-ignore
-import logoWhite from '../assets/logo-white.PNG'
+import hustedLogoWhite from '../assets/husted-logo-white.png'
 import Button from '../components/Button'
 import Navbar from '../components/Navbar'
 import About from '../components/About'
@@ -20,15 +20,15 @@ function HomePage() {
     <div className="app">
       <div className="hero-section">
         <div className="hero-background">
-          <img src={ravenelImage} alt="Background" draggable="false" />
+          <img src={charlestonSunsetImage} alt="Background" draggable="false" />
         </div>
         <Navbar />
         <div className="hero-overlay">
           <div className="hero-content">
             <div className="name-container">
-              <img src={logoWhite} alt="KC Logo" className="hero-logo" />
-              <div className="name-separator"></div>
               <h1 className="name">Kathy Cannavaro</h1>
+              <div className="name-separator"></div>
+              <img src={hustedLogoWhite} alt="Husted Logo" className="husted-logo" />
             </div>
             <p className="title">REALTOR®</p>
             <p className="title">Serving the Greater Charleston Area</p>

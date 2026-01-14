@@ -39,7 +39,8 @@ function Navbar() {
           <a href="#about" onClick={scrollToSection('about')} className="nav-link">About</a>
           <a href="#services" onClick={scrollToSection('services')} className="nav-link">Services</a>
           <a href="#reviews" onClick={scrollToSection('reviews')} className="nav-link">Reviews</a>
-          <a href="#services" onClick={scrollToSection('services')} className="nav-link">Client Resources</a>
+          <a href="#featured-properties" onClick={scrollToSection('featured-properties')} className="nav-link">Featured Properties</a>
+          <a href="https://kcannavaro.kw.com/search/" target="_blank" rel="noopener noreferrer" className="nav-link">Search Properties</a>
         </div>
 
         <div className="navbar-right">

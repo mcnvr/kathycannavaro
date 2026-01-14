@@ -31,7 +31,7 @@ function ContactPage() {
             <p className="contact-page-email">
               <a href="mailto:kcannavaro@kw.com">kcannavaro@kw.com</a>
             </p>
-            <p className="contact-page-license">DRE 128377</p>
+            <p className="contact-page-license">License # 128377</p>
             
             <div className="contact-page-address">
               <p>1331 College Park Rd, Unit E</p>
@@ -61,8 +61,7 @@ function ContactPage() {
           <div className="contact-page-form-section">
             <h2 className="contact-page-form-title">Contact Kathy</h2>
             <p className="contact-page-form-intro">
-              Buying, selling, or just curious about the Charleston real estate market? 
-              Use the form below to get in touch. I look forward to hearing from you.
+              If you're thinking about buying, selling, investing, opening a business, or have any other real estate needs, let's get together and set up a plan for your next move. 
             </p>
             
             <form 
