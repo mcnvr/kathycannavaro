@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-01-20T10:16:44.169Z",
-  "properties": []
+  "lastUpdated": "2026-01-21T10:15:37.907Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$665,000",
+      "address": "3064 Emma Lane, Mount Pleasant, SC 29466",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,363 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001577%2Fphoto%2Fmedia%2F1_4250344398631006208.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3064-Emma-Lane-Mount-Pleasant-SC-29466/2075362994259452",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$920,000",
+      "address": "311 Coki Amalie Court, Wando, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,338 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001838%2Fphoto%2Fmedia%2F1_4250342593872331520.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/311-Coki-Amalie-Court-Wando-SC-29492/2075362510898684",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$774,900",
+      "address": "673 Pontoon Road, Huger, SC 29450",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,615 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001812%2Fphoto%2Fmedia%2F1_4250283292361366656.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/673-Pontoon-Road-Huger-SC-29450/2075227933526134",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$5,500,000",
+      "address": "211 Haddrell Street, Mount Pleasant, SC 29464",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,700 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001807%2Fphoto%2Fmedia%2F1_4250048162313109248.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Haddrell-Street-Mount-Pleasant-SC-29464/2075218815357878",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$699,000",
+      "address": "2569 Kings Gate Lane, Mount Pleasant, SC 29466",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,269 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001716%2Fphoto%2Fmedia%2F1_4249596709240970240.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2569-Kings-Gate-Lane-Mount-Pleasant-SC-29466/2074997584102334",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$2,750,000",
+      "address": "2491 River Bluff Lane, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 6,
+      "sqft": "3,668 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001836%2Fphoto%2Fmedia%2F1_4250212774199225984.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2491-River-Bluff-Lane-Mount-Pleasant-SC-29466/2075299200853004",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$2,195,000",
+      "address": "40 Greensward Road, Kiawah Island, SC 29455",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,474 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25017559%2Fphoto%2Fmedia%2F1_4190032174339669760.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/40-Greensward-Road-Kiawah-Island-SC-29455/2001062476562112",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$2,690,000",
+      "address": "210 Yellowthroat Lane, Kiawah Island, SC 29455",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,700 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25020160%2Fphoto%2Fmedia%2F1_4249998959000035840.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/210-Yellowthroat-Lane-Kiawah-Island-SC-29455/2010755262411052",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$539,990",
+      "address": "505 Caledon Court, Johns Island, SC 29455",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,256 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25032814%2Fphoto%2Fmedia%2F1_4228953033741501184.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/505-Caledon-Court-Johns-Island-SC-29455/2064185976940026",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$2,050,000",
+      "address": "1756 Greenspoint Court, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "4,639 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25027148%2Fphoto%2Fmedia%2F1_4190052141323932544.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1756-Greenspoint-Court-Mount-Pleasant-SC-29466/2037683174708184",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
