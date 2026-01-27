@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-01-26T10:16:23.155Z",
-  "properties": []
+  "lastUpdated": "2026-01-27T10:15:49.539Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$1,495,000",
+      "address": "287 Beresford Creek Street, Charleston, SC 29492",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,601 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001732%2Fphoto%2Fmedia%2F1_4254687277453214464.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/287-Beresford-Creek-Street-Charleston-SC-29492/2077484021409902",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$715,000",
+      "address": "108 Lakeview Drive, Summerville, SC 29485",
+      "beds": 5,
+      "baths": 3,
+      "sqft": "2,427 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001315%2Fphoto%2Fmedia%2F1_4254581638865415552.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/108-Lakeview-Drive-Summerville-SC-29485/2073404445566058",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$1,200,000",
+      "address": "15 Windsor Drive, Charleston, SC 29407",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,000 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002064%2Fphoto%2Fmedia%2F1_4251546912290381440.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/15-Windsor-Drive-Charleston-SC-29407/2075950516220848",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$799,000",
+      "address": "554 Hidden Boulevard, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,457 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002401%2Fphoto%2Fmedia%2F1_4254458915300420224.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/554-Hidden-Boulevard-Mount-Pleasant-SC-29464/2077371874259986",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$414,800",
+      "address": "101 Limerick Circle, Summerville, SC 29483",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,212 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25016607%2Fphoto%2Fmedia%2F1_4190033273247388672.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/101-Limerick-Circle-Summerville-SC-29483/1997071343113216",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$1,200,000",
+      "address": "1813 Clark Hills Circle, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,191 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001375%2Fphoto%2Fmedia%2F1_4251985757066632320.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1813-Clark-Hills-Circle-Johns-Island-SC-29455/2073429018592176",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$999,000",
+      "address": "2078 Saint James Drive, Charleston, SC 29412",
+      "beds": 4,
+      "baths": 2,
+      "sqft": "2,448 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25024859%2Fphoto%2Fmedia%2F1_4190052431703915904.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2078-Saint-James-Drive-Charleston-SC-29412/2028587698600398",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$1,350,000",
+      "address": "150 Brady Street, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,048 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002399%2Fphoto%2Fmedia%2F1_4254435947895694848.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/150-Brady-Street-Charleston-SC-29492/2077361134683804",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$799,000",
+      "address": "1557 Nautical Chart Drive, Charleston, SC 29414",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,440 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002219%2Fphoto%2Fmedia%2F1_4252367261537993472.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1557-Nautical-Chart-Drive-Charleston-SC-29414/2076338793182874",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$685,900",
+      "address": "517 Nelliefield Trail, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,602 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001287%2Fphoto%2Fmedia%2F1_4250545047683603328.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/517-Nelliefield-Trail-Charleston-SC-29492/2073320840054896",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
