@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-03T10:28:51.581Z",
-  "properties": []
+  "lastUpdated": "2026-02-04T10:28:02.523Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$1,385,000",
+      "address": "1430 Eutaw Battalion Drive, Charleston, SC 29412",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "3,036 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002164%2Fphoto%2Fmedia%2F1_4257296999280942208.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1430-Eutaw-Battalion-Drive-Charleston-SC-29412/2076260338087420",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$5,200,000",
+      "address": "10 Summer Islands Lane, Kiawah Island, SC 29455",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "5,793 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003093%2Fphoto%2Fmedia%2F1_4259988197124664960.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/10-Summer-Islands-Lane-Kiawah-Island-SC-29455/2079880173716414",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$449,999",
+      "address": "600 Pointe Of Oaks Road, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 2,
+      "sqft": "2,187 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003159%2Fphoto%2Fmedia%2F1_4260330987599789824.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/600-Pointe-Of-Oaks-Road-Summerville-SC-29485/2080179155846650",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$1,190,000",
+      "address": "216 Woodland Shores Road, Charleston, SC 29412",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,583 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25026960%2Fphoto%2Fmedia%2F1_4190059094607519232.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/216-Woodland-Shores-Road-Charleston-SC-29412/2036874118948048",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$2,750,000",
+      "address": "100 Queen Street, Charleston, SC 29401",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "2,870 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001780%2Fphoto%2Fmedia%2F1_4250726384029801472.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/100-Queen-Street-Charleston-SC-29401/2075169127756674",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$412,000",
+      "address": "136 Daniels Ridge Drive, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,161 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002417%2Fphoto%2Fmedia%2F1_4256136870120452096.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/136-Daniels-Ridge-Drive-Summerville-SC-29485/2078191821927360",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$442,000",
+      "address": "153 Winding Grove Lane, Moncks Corner, SC 29461",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,634 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000391%2Fphoto%2Fmedia%2F1_4241295462855492864.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/153-Winding-Grove-Lane-Moncks-Corner-SC-29461/2070216882390680",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$525,000",
+      "address": "1265 Dingle Road, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,464 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000865%2Fphoto%2Fmedia%2F1_4249138269171358848.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1265-Dingle-Road-Mount-Pleasant-SC-29466/2071586119943832",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$1,250,000",
+      "address": "5010 Timber Race Course, Hollywood, SC 29449",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,944 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001420%2Fphoto%2Fmedia%2F1_4246589007917065728.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/5010-Timber-Race-Course-Hollywood-SC-29449/2073519910172316",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$1,295,000",
+      "address": "4799 Marshwood Drive, Hollywood, SC 29449",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,308 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25028118%2Fphoto%2Fmedia%2F1_4220889830725840768.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/4799-Marshwood-Drive-Hollywood-SC-29449/2041435929831258",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
