@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-07T10:14:04.194Z",
-  "properties": []
+  "lastUpdated": "2026-02-08T10:14:41.015Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$1,999,000",
+      "address": "538 Towles Crossing Drive, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,576 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003482%2Fphoto%2Fmedia%2F1_4263384666179469056.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/538-Towles-Crossing-Drive-Johns-Island-SC-29455/2081730776336882",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$400,000",
+      "address": "211 Daniels Creek Circle, Goose Creek, SC 29445",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,067 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001851%2Fphoto%2Fmedia%2F1_4263341777852362368.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Daniels-Creek-Circle-Goose-Creek-SC-29445/2075459183268882",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$634,900",
+      "address": "627 June Berry Drive, Summerville, SC 29486",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,140 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003619%2Fphoto%2Fmedia%2F1_4263309066710424960.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/627-June-Berry-Drive-Summerville-SC-29486/2081693878310558",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$686,000",
+      "address": "3543 Franklin Tower Drive Drive, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,633 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001588%2Fphoto%2Fmedia%2F1_4259368107110985600.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3543-Franklin-Tower-Drive-Drive-Mount-Pleasant-SC-29466/2074120698283020",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$569,990",
+      "address": "723 Rumbling Leaf Lane, Summerville, SC 29486",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,047 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25013452%2Fphoto%2Fmedia%2F1_4234057324911241088.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/723-Rumbling-Leaf-Lane-Summerville-SC-29486/1986675694293184",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$886,250",
+      "address": "414 Wood Lilly Loop, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,245 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25023754%2Fphoto%2Fmedia%2F1_4190046477788679168.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/414-Wood-Lilly-Loop-Summerville-SC-29486/2024163834845576",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$659,900",
+      "address": "363 Trailmore Lane, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,600 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25013332%2Fphoto%2Fmedia%2F1_4263117814928830336.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/363-Trailmore-Lane-Summerville-SC-29486/1986336806399808",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$654,900",
+      "address": "347 Trailmore Lane, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,600 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F24031099%2Fphoto%2Fmedia%2F1_4189976525522228224.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/347-Trailmore-Lane-Summerville-SC-29486/1935351239062912",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$2,400,000",
+      "address": "1908 Mahone Court, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,151 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003616%2Fphoto%2Fmedia%2F1_4263198420350075392.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1908-Mahone-Court-Charleston-SC-29492/2081616304216182",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$610,000",
+      "address": "1112 Eagle Landing Boulevard, Hanahan, SC 29410",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,902 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002650%2Fphoto%2Fmedia%2F1_4256242567336263424.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1112-Eagle-Landing-Boulevard-Hanahan-SC-29410/2078243433162862",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
