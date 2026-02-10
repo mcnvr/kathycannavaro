@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-09T10:45:34.929Z",
-  "properties": []
+  "lastUpdated": "2026-02-10T10:42:22.761Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$730,000",
+      "address": "5481 Turner Street, North Charleston, SC 29406",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,457 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003764%2Fphoto%2Fmedia%2F1_4264844776391110016.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/5481-Turner-Street-North-Charleston-SC-29406/2082409075537578",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$2,485,000",
+      "address": "3864 Summerton Street, Mount Pleasant, SC 29466",
+      "beds": 6,
+      "baths": 5,
+      "sqft": "4,204 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003647%2Fphoto%2Fmedia%2F1_4264835836743844608.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3864-Summerton-Street-Mount-Pleasant-SC-29466/2082178745751192",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$535,000",
+      "address": "2338 Watchtower Lane, Charleston, SC 29414",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,101 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030306%2Fphoto%2Fmedia%2F1_4264678093416361856.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2338-Watchtower-Lane-Charleston-SC-29414/2051005823341818",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$545,000",
+      "address": "111 Long Bow Road, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,914 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000027%2Fphoto%2Fmedia%2F1_4236140105833228928.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/111-Long-Bow-Road-Summerville-SC-29485/2068427769074608",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$409,000",
+      "address": "2907 Limestone Boulevard, Charleston, SC 29414",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,158 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000752%2Fphoto%2Fmedia%2F1_4264612694544973440.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2907-Limestone-Boulevard-Charleston-SC-29414/2071227397052730",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$1,200,000",
+      "address": "456 Waring Street, Summerville, SC 29483",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,688 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003494%2Fphoto%2Fmedia%2F1_4264602626738946816.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/456-Waring-Street-Summerville-SC-29483/2081153212811160",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$1,880,900",
+      "address": "211 Seven Farms Drive #202, Charleston, SC 29425",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,252 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003753%2Fphoto%2Fmedia%2F1_4264599478100099840.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Seven-Farms-Drive-202-Charleston-SC-29425/2082323050878170",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$2,199,000",
+      "address": "211 Seven Farms Drive #302, Charleston, SC 29492",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,525 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003754%2Fphoto%2Fmedia%2F1_4264599522668816256.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Seven-Farms-Drive-302-Charleston-SC-29492/2082323052816250",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$2,490,000",
+      "address": "211 Seven Farms Drive #201, Charleston, SC 29492",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,646 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003752%2Fphoto%2Fmedia%2F1_4264597990808285056.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Seven-Farms-Drive-201-Charleston-SC-29492/2082323052861554",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$1,775,900",
+      "address": "211 Seven Farms Drive #102, Charleston, SC 29492",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,149 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003751%2Fphoto%2Fmedia%2F1_4264598370074048128.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/211-Seven-Farms-Drive-102-Charleston-SC-29492/2082323054093818",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
