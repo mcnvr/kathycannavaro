@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-14T10:14:51.081Z",
-  "properties": []
+  "lastUpdated": "2026-02-15T10:14:41.578Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$2,945,000",
+      "address": "4105 Gnarled Oaks Lane, Johns Island, SC 29455",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,496 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004253%2Fphoto%2Fmedia%2F1_4268458459499440000.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/4105-Gnarled-Oaks-Lane-Johns-Island-SC-29455/2084208020224094",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$629,000",
+      "address": "1629 Grey Marsh Road, Mount Pleasant, SC 29466",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,015 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25026478%2Fphoto%2Fmedia%2F1_4205004952062960512.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1629-Grey-Marsh-Road-Mount-Pleasant-SC-29466/2035274772031008",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$630,000",
+      "address": "6013 Coral Berry Road, Hanahan, SC 29410",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,574 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004268%2Fphoto%2Fmedia%2F1_4268286931071802496.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/6013-Coral-Berry-Road-Hanahan-SC-29410/2084023702316700",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$10,625,000",
+      "address": "925 Fish Camp Road, Charleston, SC 29492",
+      "beds": 5,
+      "baths": 7,
+      "sqft": "5,564 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004000%2Fphoto%2Fmedia%2F1_4268118117600234240.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/925-Fish-Camp-Road-Charleston-SC-29492/2083229883417608",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$610,000",
+      "address": "1112 Eagle Landing Boulevard, Hanahan, SC 29410",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,902 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002650%2Fphoto%2Fmedia%2F1_4256242567336263424.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1112-Eagle-Landing-Boulevard-Hanahan-SC-29410/2078243433162862",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$2,150,000",
+      "address": "55 Eastlake Road, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,300 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003973%2Fphoto%2Fmedia%2F1_4266077322911252224.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/55-Eastlake-Road-Mount-Pleasant-SC-29464/2083028369208800",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$575,000",
+      "address": "29 Monte Sano Drive, Hanahan, SC 29410",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,985 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004284%2Fphoto%2Fmedia%2F1_4268197841672477696.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/29-Monte-Sano-Drive-Hanahan-SC-29410/2084080968758290",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$1,785,000",
+      "address": "250 Island Park Drive #205, Charleston, SC 29492",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,500 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004282%2Fphoto%2Fmedia%2F1_4268191574014881792.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/250-Island-Park-Drive-205-Charleston-SC-29492/2084076096620190",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$7,800,000",
+      "address": "134 3rd Avenue, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "4,903 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25024099%2Fphoto%2Fmedia%2F1_4190042035232330624.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/134-3rd-Avenue-Mount-Pleasant-SC-29464/2025907699701270",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$850,000",
+      "address": "122 Tidewater Way, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,491 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002120%2Fphoto%2Fmedia%2F1_4252060120281318528.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/122-Tidewater-Way-Charleston-SC-29492/2076186394346932",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
