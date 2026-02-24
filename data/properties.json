@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-23T10:39:22.726Z",
-  "properties": []
+  "lastUpdated": "2026-02-24T10:36:45.651Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$537,000",
+      "address": "3169 Conservancy Lane, Charleston, SC 29414",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,063 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030105%2Fphoto%2Fmedia%2F1_4275046464091695744.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3169-Conservancy-Lane-Charleston-SC-29414/2050231693070896",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$1,600,000",
+      "address": "6076 Overlook Road, Johns Island, SC 29455",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,300 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25027881%2Fphoto%2Fmedia%2F1_4268802511419797376.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/6076-Overlook-Road-Johns-Island-SC-29455/2040532774360052",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$590,000",
+      "address": "1150 Valdosta Street #702, North Charleston, SC 29405",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,230 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25031639%2Fphoto%2Fmedia%2F1_4219577800878303104.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1150-Valdosta-Street-702-North-Charleston-SC-29405/2058106661500568",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$575,000",
+      "address": "432 Minim Street, Charleston, SC 29414",
+      "beds": 6,
+      "baths": 3,
+      "sqft": "2,475 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005161%2Fphoto%2Fmedia%2F1_4274980999101261440.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/432-Minim-Street-Charleston-SC-29414/2087393062479994",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$1,275,000",
+      "address": "4779 Holbird Drive, North Charleston, SC 29405",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,262 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004965%2Fphoto%2Fmedia%2F1_4274864324360072192.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/4779-Holbird-Drive-North-Charleston-SC-29405/2086241528378298",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$1,250,000",
+      "address": "1581 Cultivation Lane, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,700 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004798%2Fphoto%2Fmedia%2F1_4274803454422686592.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1581-Cultivation-Lane-Mount-Pleasant-SC-29466/2086790963164096",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$475,000",
+      "address": "1629 Pimlico Boulevard, Moncks Corner, SC 29461",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,064 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005134%2Fphoto%2Fmedia%2F1_4274663917277027328.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1629-Pimlico-Boulevard-Moncks-Corner-SC-29461/2087238236881932",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$439,553",
+      "address": "122 Oyster Tide Way, Summerville, SC 29485",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,438 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005164%2Fphoto%2Fmedia%2F1_4274910920695153792.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/122-Oyster-Tide-Way-Summerville-SC-29485/2087358679155632",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$974,999",
+      "address": "1866 Capri Drive, Charleston, SC 29407",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,980 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25016044%2Fphoto%2Fmedia%2F1_4190026435265188480.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1866-Capri-Drive-Charleston-SC-29407/1995562377655232",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$459,900",
+      "address": "1045 Old Cypress Run, Hanahan, SC 29410",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,320 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26004247%2Fphoto%2Fmedia%2F1_4267914450670591616.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1045-Old-Cypress-Run-Hanahan-SC-29410/2083942595326896",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
