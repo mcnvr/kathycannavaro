@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-02-27T10:26:44.047Z",
-  "properties": []
+  "lastUpdated": "2026-02-28T10:12:11.305Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$695,000",
+      "address": "4283 Persimmon Woods Drive, North Charleston, SC 29420",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,177 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005029%2Fphoto%2Fmedia%2F1_4277880177674579840.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/4283-Persimmon-Woods-Drive-North-Charleston-SC-29420/2088560421746314",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$865,000",
+      "address": "976 Mcelveen Street, Charleston, SC 29412",
+      "beds": 5,
+      "baths": 3,
+      "sqft": "2,560 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005624%2Fphoto%2Fmedia%2F1_4277658655668114048.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/976-Mcelveen-Street-Charleston-SC-29412/2088700511371800",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$600,000",
+      "address": "1694 Sparkleberry Lane, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,010 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005633%2Fphoto%2Fmedia%2F1_4277779432623176192.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1694-Sparkleberry-Lane-Johns-Island-SC-29455/2088759482823208",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$2,650,000",
+      "address": "1217 Antigua Drive, Mount Pleasant, SC 29464",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "4,501 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005630%2Fphoto%2Fmedia%2F1_4277778195563484032.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1217-Antigua-Drive-Mount-Pleasant-SC-29464/2088728508162644",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$545,000",
+      "address": "119 Archdale Street, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,720 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003180%2Fphoto%2Fmedia%2F1_4261312280126924672.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/119-Archdale-Street-Summerville-SC-29486/2080218675561490",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$795,000",
+      "address": "1608 Jorrington Street, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 2,
+      "sqft": "2,967 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003803%2Fphoto%2Fmedia%2F1_4265166349803300352.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1608-Jorrington-Street-Mount-Pleasant-SC-29466/2082600730752506",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$449,990",
+      "address": "5241 Cottage Landing Drive, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,641 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26002632%2Fphoto%2Fmedia%2F1_4255915441437416448.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/5241-Cottage-Landing-Drive-Summerville-SC-29485/2078083669541824",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$774,999",
+      "address": "285 Great Lawn Drive, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,036 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000018%2Fphoto%2Fmedia%2F1_4236099780829912064.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/285-Great-Lawn-Drive-Summerville-SC-29486/2068408081958554",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$1,760,000",
+      "address": "3210 Waverly Lane, Johns Island, SC 29455",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "3,360 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030304%2Fphoto%2Fmedia%2F1_4276011058935264640.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3210-Waverly-Lane-Johns-Island-SC-29455/2050993558402294",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$945,000",
+      "address": "1844 Pierce Street, Daniel Island, SC 29492",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,160 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25023522%2Fphoto%2Fmedia%2F1_4209294155982604800.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1844-Pierce-Street-Daniel-Island-SC-29492/2023451226211954",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
