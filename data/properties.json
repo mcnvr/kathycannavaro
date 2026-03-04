@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-03T10:27:57.692Z",
-  "properties": []
+  "lastUpdated": "2026-03-04T10:23:50.876Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$774,900",
+      "address": "104 Race Club Road, Summerville, SC 29483",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,968 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005929%2Fphoto%2Fmedia%2F1_4280786500070274688.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/104-Race-Club-Road-Summerville-SC-29483/2090138196195792",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$569,000",
+      "address": "112 N Gateshead Crossing, Goose Creek, SC 29445",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,933 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005833%2Fphoto%2Fmedia%2F1_4280156365713378944.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/112-N-Gateshead-Crossing-Goose-Creek-SC-29445/2089919792720336",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$1,189,000",
+      "address": "757 Sappho Court, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,447 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25031061%2Fphoto%2Fmedia%2F1_4206733243765571328.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/757-Sappho-Court-Mount-Pleasant-SC-29464/2053987567204252",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$849,000",
+      "address": "1830 Kempton Avenue, Charleston, SC 29412",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,200 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005704%2Fphoto%2Fmedia%2F1_4280786268116875776.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1830-Kempton-Avenue-Charleston-SC-29412/2089334598833232",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$1,295,000",
+      "address": "4799 Marshwood Drive, Hollywood, SC 29449",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,308 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25028118%2Fphoto%2Fmedia%2F1_4220889830725840768.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/4799-Marshwood-Drive-Hollywood-SC-29449/2041435929831258",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$419,990",
+      "address": "217 Cypress Preserve Boulevard, Moncks Corner, SC 29461",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,360 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005078%2Fphoto%2Fmedia%2F1_4280584852563592704.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/217-Cypress-Preserve-Boulevard-Moncks-Corner-SC-29461/2090129316854220",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$414,990",
+      "address": "443 Cadbury Loop, Summerville, SC 29486",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,096 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBRIDGE%2F414%2F26005899%2Fphoto%2Fmedia%2F1_4280584298001142656.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/443-Cadbury-Loop-Summerville-SC-29486/2090072645544210",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$675,000",
+      "address": "605 S Pointe Boulevard, Summerville, SC 29483",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "4,535 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005926%2Fphoto%2Fmedia%2F1_4280572854102725376.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/605-S-Pointe-Boulevard-Summerville-SC-29483/2090123452340010",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$2,690,000",
+      "address": "276 Copahee Road, Mount Pleasant, SC 29464",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,956 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005925%2Fphoto%2Fmedia%2F1_4280562767036576768.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/276-Copahee-Road-Mount-Pleasant-SC-29464/2090114725672920",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$575,000",
+      "address": "2919 Wilson Creek Lane, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,128 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005906%2Fphoto%2Fmedia%2F1_4280518208738980992.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2919-Wilson-Creek-Lane-Johns-Island-SC-29455/2090069381695462",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
