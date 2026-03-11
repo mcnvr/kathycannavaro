@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-10T10:28:02.118Z",
-  "properties": []
+  "lastUpdated": "2026-03-11T10:27:31.172Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$825,000",
+      "address": "3055 Maritime Forest Drive, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,184 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005551%2Fphoto%2Fmedia%2F1_4277403208671457152.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3055-Maritime-Forest-Drive-Johns-Island-SC-29455/2088575155786480",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$1,000,000",
+      "address": "2910 Maritime Forest Drive, Johns Island, SC 29455",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "2,623 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006715%2Fphoto%2Fmedia%2F1_4285769331116640768.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2910-Maritime-Forest-Drive-Johns-Island-SC-29455/2092600705890280",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$1,495,000",
+      "address": "2105 Loblolly Lane, Seabrook Island, SC 29455",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,137 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005821%2Fphoto%2Fmedia%2F1_4285892509830776320.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2105-Loblolly-Lane-Seabrook-Island-SC-29455/2089786765894180",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$9,800,000",
+      "address": "13 Broughton Road, Charleston, SC 29407",
+      "beds": 7,
+      "baths": 7,
+      "sqft": "7,628 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006721%2Fphoto%2Fmedia%2F1_4285871861356106368.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/13-Broughton-Road-Charleston-SC-29407/2092627753069004",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$837,500",
+      "address": "842 Captain Toms Crossing, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,541 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25031987%2Fphoto%2Fmedia%2F1_4285887601362669824.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/842-Captain-Toms-Crossing-Johns-Island-SC-29455/2059789305939612",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$2,065,000",
+      "address": "118 Scott Street, Daniel Island, SC 29492",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,319 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006210%2Fphoto%2Fmedia%2F1_4285867138595026432.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/118-Scott-Street-Daniel-Island-SC-29492/2090794452748530",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$559,990",
+      "address": "1066 Tea Maker Road, Ravenel, SC 29470",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "3,187 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030166%2Fphoto%2Fmedia%2F1_4228198842316203776.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1066-Tea-Maker-Road-Ravenel-SC-29470/2050445519311410",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$1,032,250",
+      "address": "120 Sasportas Lane, Summerville, SC 29483",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,600 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25021765%2Fphoto%2Fmedia%2F1_4190041623141891712.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/120-Sasportas-Lane-Summerville-SC-29483/2016565027399042",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$819,900",
+      "address": "2410 Lieutenant Dozier Drive, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,184 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006671%2Fphoto%2Fmedia%2F1_4285835071823841536.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2410-Lieutenant-Dozier-Drive-Johns-Island-SC-29455/2092689013670986",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$429,900",
+      "address": "1025 Mourning Warbler Way #Cc3-17-11, Ravenel, SC 29470",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,318 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26001986%2Fphoto%2Fmedia%2F1_4279315234889036928.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1025-Mourning-Warbler-Way-Cc31711-Ravenel-SC-29470/2075854699849430",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
