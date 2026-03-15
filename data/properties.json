@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-14T10:17:06.925Z",
-  "properties": []
+  "lastUpdated": "2026-03-15T10:17:08.484Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$609,700",
+      "address": "1224 Twitchell Street, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,110 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005564%2Fphoto%2Fmedia%2F1_4288580627721687936.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1224-Twitchell-Street-Johns-Island-SC-29455/2088597325161540",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$2,989,000",
+      "address": "108 Fairbanks Oak Alley #Unit 201, Charleston, SC 29492",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "3,220 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007255%2Fphoto%2Fmedia%2F1_4288605777859049088.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/108-Fairbanks-Oak-Alley-Unit-201-Charleston-SC-29492/2094045778383396",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$2,000,000",
+      "address": "720 E Erie Avenue, Folly Beach, SC 29439",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,194 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007260%2Fphoto%2Fmedia%2F1_4288635983441294976.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/720-E-Erie-Avenue-Folly-Beach-SC-29439/2094060536797630",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$3,475,000",
+      "address": "2725 Parkers Landing Road, Mount Pleasant, SC 29466",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "4,439 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006118%2Fphoto%2Fmedia%2F1_4288520314779372288.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2725-Parkers-Landing-Road-Mount-Pleasant-SC-29466/2090693659645918",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$559,990",
+      "address": "1066 Tea Maker Road, Ravenel, SC 29470",
+      "beds": 5,
+      "baths": 5,
+      "sqft": "3,187 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030166%2Fphoto%2Fmedia%2F1_4228198842316203776.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1066-Tea-Maker-Road-Ravenel-SC-29470/2050445519311410",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$509,990",
+      "address": "1070 Tea Maker Road, Ravenel, SC 29470",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,449 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25030543%2Fphoto%2Fmedia%2F1_4242949937416480384.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1070-Tea-Maker-Road-Ravenel-SC-29470/2051883229336114",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$1,075,000",
+      "address": "746 Goodlet Circle, Charleston, SC 29412",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,213 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25032343%2Fphoto%2Fmedia%2F1_4257249209792130048.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/746-Goodlet-Circle-Charleston-SC-29412/2061384332968596",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$1,150,000",
+      "address": "5713 Boone Haven Road, Wadmalaw Island, SC 29487",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,050 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005437%2Fphoto%2Fmedia%2F1_4288495082324752256.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/5713-Boone-Haven-Road-Wadmalaw-Island-SC-29487/2088250289029676",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$425,000",
+      "address": "9697 Seminole Way, Summerville, SC 29485",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,049 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007250%2Fphoto%2Fmedia%2F1_4288495064574363776.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/9697-Seminole-Way-Summerville-SC-29485/2093991729582636",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$664,000",
+      "address": "172 Slipper Shell Court, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,143 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000143%2Fphoto%2Fmedia%2F1_4237071333897875584.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/172-Slipper-Shell-Court-Mount-Pleasant-SC-29464/2068882408673992",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
