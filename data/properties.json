@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-17T10:39:03.162Z",
-  "properties": []
+  "lastUpdated": "2026-03-18T10:39:22.246Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$1,035,000",
+      "address": "2254 Show Basket Way, Mount Pleasant, SC 29466",
+      "beds": 5,
+      "baths": 3,
+      "sqft": "3,402 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006411%2Fphoto%2Fmedia%2F1_4283134794821955456.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2254-Show-Basket-Way-Mount-Pleasant-SC-29466/2091214622573298",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$533,586",
+      "address": "118 Brick Drive, Summerville, SC 29486",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,579 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006690%2Fphoto%2Fmedia%2F1_4285510864523038976.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/118-Brick-Drive-Summerville-SC-29486/2092534524634180",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$543,419",
+      "address": "273 Denham Street, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,610 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25031968%2Fphoto%2Fmedia%2F1_4217316076192114432.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/273-Denham-Street-Summerville-SC-29486/2059232329771126",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$3,250,000",
+      "address": "26 Charlotte Street, Charleston, SC 29403",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "3,182 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005712%2Fphoto%2Fmedia%2F1_4282953510896044800.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/26-Charlotte-Street-Charleston-SC-29403/2091285887726650",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$555,387",
+      "address": "283 Denham Street, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,610 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25032712%2Fphoto%2Fmedia%2F1_4226043531132271616.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/283-Denham-Street-Summerville-SC-29486/2063496932778944",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$466,490",
+      "address": "2000 Buttercup Way, Charleston, SC 29414",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,320 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25022952%2Fphoto%2Fmedia%2F1_4190047360949763840.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2000-Buttercup-Way-Charleston-SC-29414/2021040577238766",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$875,000",
+      "address": "329 Ayers Circle, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,818 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26000236%2Fphoto%2Fmedia%2F1_4238965180391366016.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/329-Ayers-Circle-Summerville-SC-29485/2069807160817918",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$587,000",
+      "address": "3005 Macbeth Creek Drive, Charleston, SC 29414",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,304 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F25016666%2Fphoto%2Fmedia%2F1_4190032132983831936.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3005-Macbeth-Creek-Drive-Charleston-SC-29414/1997774214524608",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$536,646",
+      "address": "106 Brick Drive, Summerville, SC 29486",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "2,579 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006691%2Fphoto%2Fmedia%2F1_4285515417574248064.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/106-Brick-Drive-Summerville-SC-29486/2092536817944672",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$710,000",
+      "address": "2680 Park West Boulevard, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,780 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007295%2Fphoto%2Fmedia%2F1_4289335650718217344.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2680-Park-West-Boulevard-Mount-Pleasant-SC-29466/2094402138842170",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
