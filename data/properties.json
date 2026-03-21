@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-20T10:26:51.405Z",
-  "properties": []
+  "lastUpdated": "2026-03-21T10:14:35.811Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$468,000",
+      "address": "113 Virginia Street, Goose Creek, SC 29445",
+      "beds": 3,
+      "baths": 2,
+      "sqft": "2,305 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007960%2Fphoto%2Fmedia%2F1_4293100403445790848.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/113-Virginia-Street-Goose-Creek-SC-29445/2096102799414242",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$780,000",
+      "address": "1250 Old Ivy Way, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,416 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007765%2Fphoto%2Fmedia%2F1_4293070443775604096.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1250-Old-Ivy-Way-Mount-Pleasant-SC-29466/2096016798634508",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$535,000",
+      "address": "119 Archdale Street, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,720 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003180%2Fphoto%2Fmedia%2F1_4289662769872538368.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/119-Archdale-Street-Summerville-SC-29486/2080218675561490",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$2,375,000",
+      "address": "3516 Henrietta Hartford Road, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "4,386 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007603%2Fphoto%2Fmedia%2F1_4292910139783575680.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3516-Henrietta-Hartford-Road-Mount-Pleasant-SC-29466/2095375360468182",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$1,850,000",
+      "address": "1015 Casseque Province, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "3,437 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007051%2Fphoto%2Fmedia%2F1_4292934414997452928.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1015-Casseque-Province-Mount-Pleasant-SC-29464/2093337993335888",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$837,000",
+      "address": "1510 Cecile Street #Unit F-1, Mount Pleasant, SC 29464",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,625 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007974%2Fphoto%2Fmedia%2F1_4292988819650227072.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1510-Cecile-Street-Unit-F1-Mount-Pleasant-SC-29464/2096185944282798",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$2,400,000",
+      "address": "1525 Mossy Branch Way, Mount Pleasant, SC 29464",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "3,247 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006081%2Fphoto%2Fmedia%2F1_4290352315161412608.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1525-Mossy-Branch-Way-Mount-Pleasant-SC-29464/2092254188988376",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$735,000",
+      "address": "612 King Haven Lane, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "2,300 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007970%2Fphoto%2Fmedia%2F1_4292899680095369344.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/612-King-Haven-Lane-Johns-Island-SC-29455/2096142135854286",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$2,950,000",
+      "address": "21 Morgans Cove Drive, Isle of Palms, SC 29451",
+      "beds": 3,
+      "baths": 4,
+      "sqft": "3,068 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007929%2Fphoto%2Fmedia%2F1_4292894262891752064.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/21-Morgans-Cove-Drive-Isle-of-Palms-SC-29451/2096063577445574",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$499,900",
+      "address": "309 Scholar Way, Summerville, SC 29486",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,283 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006085%2Fphoto%2Fmedia%2F1_4281730539191956480.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/309-Scholar-Way-Summerville-SC-29486/2090595324912152",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
