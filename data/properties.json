@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-03-27T10:36:41.477Z",
-  "properties": []
+  "lastUpdated": "2026-03-28T10:20:18.067Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$12,900,000",
+      "address": "23 Cormorant Island Lane, Kiawah Island, SC 29455",
+      "beds": 5,
+      "baths": 6,
+      "sqft": "7,100 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008198%2Fphoto%2Fmedia%2F1_4298143843233641344.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/23-Cormorant-Island-Lane-Kiawah-Island-SC-29455/2098702949483020",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$525,000",
+      "address": "190 Helena Park Drive, Summerville, SC 29486",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,343 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008735%2Fphoto%2Fmedia%2F1_4298143753634949632.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/190-Helena-Park-Drive-Summerville-SC-29486/2098702950680234",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$565,000",
+      "address": "1810 Hockley Boulevard, Charleston, SC 29414",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,280 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008403%2Fphoto%2Fmedia%2F1_4298048090083459840.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1810-Hockley-Boulevard-Charleston-SC-29414/2098656262243298",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$565,000",
+      "address": "103 Endicott Street, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,038 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003036%2Fphoto%2Fmedia%2F1_4298012732679629312.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/103-Endicott-Street-Summerville-SC-29485/2079757341128344",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$1,450,000",
+      "address": "1618 Fort Palmetto Circle, Mount Pleasant, SC 29466",
+      "beds": 5,
+      "baths": 3,
+      "sqft": "3,276 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007629%2Fphoto%2Fmedia%2F1_4291550213039535360.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1618-Fort-Palmetto-Circle-Mount-Pleasant-SC-29466/2095483489670138",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$819,000",
+      "address": "1187 Marquis Road, North Charleston, SC 29405",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,166 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005410%2Fphoto%2Fmedia%2F1_4276637096421657344.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1187-Marquis-Road-North-Charleston-SC-29405/2088191368833484",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$765,000",
+      "address": "141 Old Course Road, Summerville, SC 29485",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "2,725 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008484%2Fphoto%2Fmedia%2F1_4297967491306042752.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/141-Old-Course-Road-Summerville-SC-29485/2098157401465354",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$995,000",
+      "address": "1828 Delacourt Avenue, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,276 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008742%2Fphoto%2Fmedia%2F1_4297876905639097600.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1828-Delacourt-Avenue-Mount-Pleasant-SC-29466/2098572703103400",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$1,395,000",
+      "address": "1759 Clark Hills Circle, Johns Island, SC 29455",
+      "beds": 4,
+      "baths": 4,
+      "sqft": "3,373 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26008058%2Fphoto%2Fmedia%2F1_4294666100898637696.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1759-Clark-Hills-Circle-Johns-Island-SC-29455/2096992447191464",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$769,000",
+      "address": "1861 Great Hope Drive, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "2,235 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003830%2Fphoto%2Fmedia%2F1_4289954673558369664.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1861-Great-Hope-Drive-Mount-Pleasant-SC-29466/2082980016563732",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
