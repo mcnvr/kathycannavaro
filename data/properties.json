@@ -1,4 +1,115 @@
 {
-  "lastUpdated": "2026-04-04T10:22:17.440Z",
-  "properties": []
+  "lastUpdated": "2026-04-05T10:21:35.091Z",
+  "properties": [
+    {
+      "id": "property-1",
+      "price": "$2,150,000",
+      "address": "1635 Pierce Street, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,660 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26009245%2Fphoto%2Fmedia%2F1_4301970836849051136.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1635-Pierce-Street-Charleston-SC-29492/2100413446416276",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-2",
+      "price": "$2,150,000",
+      "address": "1908 Mahone Court, Charleston, SC 29492",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,151 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26003616%2Fphoto%2Fmedia%2F1_4284624831988224512.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1908-Mahone-Court-Charleston-SC-29492/2081616304216182",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-3",
+      "price": "$469,900",
+      "address": "209 Goldfinch Lane, Summerville, SC 29485",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,079 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005613%2Fphoto%2Fmedia%2F1_4303901625757028864.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/209-Goldfinch-Lane-Summerville-SC-29485/2088656264406096",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-4",
+      "price": "$443,900",
+      "address": "274 Sweet Alyssum Drive, Ladson, SC 29456",
+      "beds": 4,
+      "baths": 3,
+      "sqft": "3,100 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26006093%2Fphoto%2Fmedia%2F1_4303775828144702592.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/274-Sweet-Alyssum-Drive-Ladson-SC-29456/2090661896226826",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-5",
+      "price": "$849,000",
+      "address": "1473 Oakhurst Drive, Mount Pleasant, SC 29466",
+      "beds": 5,
+      "baths": 4,
+      "sqft": "3,019 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26009591%2Fphoto%2Fmedia%2F1_4303750877874310912.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/1473-Oakhurst-Drive-Mount-Pleasant-SC-29466/2101440696711064",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-6",
+      "price": "$8,900,000",
+      "address": "904 Ocean Boulevard, Isle of Palms, SC 29451",
+      "beds": 10,
+      "baths": 12,
+      "sqft": "4,910 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26009589%2Fphoto%2Fmedia%2F1_4303715857130409856.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/904-Ocean-Boulevard-Isle-of-Palms-SC-29451/2101403855067026",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-7",
+      "price": "$2,375,000",
+      "address": "3516 Henrietta Hartford Road, Mount Pleasant, SC 29466",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "4,386 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007603%2Fphoto%2Fmedia%2F1_4303698977539790336.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/3516-Henrietta-Hartford-Road-Mount-Pleasant-SC-29466/2095375360468182",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-8",
+      "price": "$8,750,000",
+      "address": "914 Ocean Boulevard, Isle of Palms, SC 29451",
+      "beds": 6,
+      "baths": 8,
+      "sqft": "4,930 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26009590%2Fphoto%2Fmedia%2F1_4303680105512259456.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/914-Ocean-Boulevard-Isle-of-Palms-SC-29451/2101406291360026",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-9",
+      "price": "$2,100,000",
+      "address": "2683 Magnolia Woods Drive, Mount Pleasant, SC 29464",
+      "beds": 4,
+      "baths": 5,
+      "sqft": "3,658 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26007711%2Fphoto%2Fmedia%2F1_4291957899547797888.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2683-Magnolia-Woods-Drive-Mount-Pleasant-SC-29464/2095670463252136",
+      "listingAgent": "Kathy Cannavaro"
+    },
+    {
+      "id": "property-10",
+      "price": "$1,350,000",
+      "address": "2495 Edenforest Road, Johns Island, SC 29455",
+      "beds": 3,
+      "baths": 3,
+      "sqft": "2,393 sq ft",
+      "image": "https://cflare.smarteragent.com/rest/Resizer?sig_id=69&quality=0.8&url=https%3A%2F%2Fstorage.googleapis.com%2Fslp5-stream-listing-media-prod%2FBridge%2F414%2F26005844%2Fphoto%2Fmedia%2F1_4303660328169365632.jpg&width=1000",
+      "link": "https://kcannavaro.kw.com/property/2495-Edenforest-Road-Johns-Island-SC-29455/2089963985368142",
+      "listingAgent": "Kathy Cannavaro"
+    }
+  ]
 }
